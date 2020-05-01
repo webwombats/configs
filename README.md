@@ -1,5 +1,7 @@
 # Web Wombats config files
 
+![NPM package](https://github.com/webwombats/configs/workflows/Publish%20to%20NPM/badge.svg)
+
 - [Common](./common) - common for each project
 - [Frontend](./frontend) - frontend specific
 - [Backend](./backend) - backend specific
